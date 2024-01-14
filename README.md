@@ -15,6 +15,7 @@ Learning GIT Branching
 2. Switching between branches
 
 -'git switch branchname'
+
 -'git checkout branchname'
 
 -. Directly switching to a new branch
